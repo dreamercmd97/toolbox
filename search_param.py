@@ -1,4 +1,4 @@
-#!/Users/ozgun/Downloads/PY_TOOLS/.venv/bin/python
+#!/Users/oz/Downloads/PY_TOOLS/toolbox/.venv/bin/python
 
 # search_param.py
 
